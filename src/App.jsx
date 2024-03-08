@@ -6,11 +6,14 @@ import Header from "./components/Header"
 function App() {
   
   return (
-        <>
-        <Header/>
+        <div className="container mx-auto mt-20 ">
+        <Header />
+        <div className="mt-12 md:flex ">
         <Formulario/>
-        <ListadoPacientes/>
-        </>
+        <ListadoPacientes/> 
+        </div>
+   
+        </div>
   
   )
 }

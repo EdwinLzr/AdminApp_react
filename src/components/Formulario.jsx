@@ -2,7 +2,9 @@
 
 const Formulario = () => {
   return (
-    <div>Formulario</div>
+    <div className="w-1/2">
+      <h2>Formulario</h2>
+    </div>
   )
 }
 
