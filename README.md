@@ -1,10 +1,12 @@
 # Proyecto con react y vite
-## aplicacion para administrar registros de personas
+## aplicacion para administrar registros de personas, notas etc 
+
 
 * html 
 * css
 * react
 * tailwindcss
+* vite
 
-### preview
+### Preview
 ![Vista de la app]()
