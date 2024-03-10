@@ -7,6 +7,7 @@
 * react
 * tailwindcss
 * vite
+* local-Storage
 
 ### Preview
 ![Vista de la app]()
