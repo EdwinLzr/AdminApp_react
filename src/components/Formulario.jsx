@@ -2,7 +2,8 @@
 
 const Formulario = () => {
   return (
-    <div className="w-1/2 lg:w-2/5">
+    <div className="md:w-1/2 lg:w-2/5 ">
+
       <h2 className=" font-black text-3xl text-center">Seguimiento</h2>
 
       <p className="text-lg mt-5 text-center">Agrega utilizando el <span className="text-red-500 font-bold">Formulario</span></p>
